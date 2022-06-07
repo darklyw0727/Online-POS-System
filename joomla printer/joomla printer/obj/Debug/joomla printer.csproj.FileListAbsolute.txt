@@ -1,0 +1,15 @@
+D:\Topic\WF\joomla printer\joomla printer\obj\Debug\joomla printer.csprojAssemblyReference.cache
+D:\Topic\WF\joomla printer\joomla printer\obj\Debug\joomla_printer.Properties.Resources.resources
+D:\Topic\WF\joomla printer\joomla printer\obj\Debug\joomla printer.csproj.GenerateResource.cache
+D:\Topic\WF\joomla printer\joomla printer\bin\Debug\joomla printer.exe.config
+D:\Topic\WF\joomla printer\joomla printer\bin\Debug\joomla printer.exe
+D:\Topic\WF\joomla printer\joomla printer\bin\Debug\joomla printer.pdb
+D:\Topic\WF\joomla printer\joomla printer\bin\Debug\MySql.Data.dll
+D:\Topic\WF\joomla printer\joomla printer\bin\Debug\Google.Protobuf.dll
+D:\Topic\WF\joomla printer\joomla printer\bin\Debug\BouncyCastle.Crypto.dll
+D:\Topic\WF\joomla printer\joomla printer\bin\Debug\Renci.SshNet.dll
+D:\Topic\WF\joomla printer\joomla printer\bin\Debug\MySql.Data.xml
+D:\Topic\WF\joomla printer\joomla printer\obj\Debug\joomla_printer.Form1.resources
+D:\Topic\WF\joomla printer\joomla printer\obj\Debug\joomla printer.csproj.CopyComplete
+D:\Topic\WF\joomla printer\joomla printer\obj\Debug\joomla printer.exe
+D:\Topic\WF\joomla printer\joomla printer\obj\Debug\joomla printer.pdb
